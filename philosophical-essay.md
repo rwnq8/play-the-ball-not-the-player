@@ -1,3 +1,9 @@
+﻿---
+title: "On the Tackle — Philosophical Essay"
+description: "Ad hominem, Stoic discipline, game theory, cultural dimensions, and the ethics of engagement."
+layout: default
+---
+
 # On the Tackle: Ad Hominem, Stoic Discipline, and the Ethics of Engagement
 
 *A philosophical essay in eight sections — skeleton ready for full draft expansion (~3,000–4,000 words when fleshed out).*

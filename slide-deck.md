@@ -1,3 +1,9 @@
+﻿---
+title: "Ball First — Slide Deck & Talk Framework"
+description: "18-slide keynote/workshop framework with speaker notes and interactive exercises."
+layout: default
+---
+
 # "Ball First: The One Rule That Changes Everything"
 ## Slide Deck / Talk Framework
 

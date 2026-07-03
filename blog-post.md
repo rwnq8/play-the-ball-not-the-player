@@ -1,3 +1,10 @@
+﻿---
+title: "Ball First, Person Never"
+description: "The World Cup principle that wins matches — and lives."
+date: 2026-07-02
+layout: default
+---
+
 # Ball First, Person Never
 ### *The World Cup principle that wins matches — and lives.*
 

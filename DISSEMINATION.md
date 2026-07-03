@@ -1,3 +1,9 @@
+﻿---
+title: "Dissemination & Publishing Avenues"
+description: "Traditional, Web3, social, academic, and novel interactive publishing strategies."
+layout: default
+---
+
 # Dissemination & Publishing Avenues
 ## Play the Ball, Not the Player — Content Ecosystem
 

@@ -1,3 +1,9 @@
+﻿---
+title: "The Beautiful Rule — 7-Part Content Series"
+description: "Episode-by-episode blueprint for the Play the Ball, Not the Player series arc."
+layout: default
+---
+
 # Play the Ball, Not the Player — 7-Part Content Series
 
 ## Series Arc: *"The Beautiful Rule"*
