@@ -1,4 +1,9 @@
-# Buffer Social Media Posts — Play the Ball, Not the Player
+﻿---
+title: "Social Media Assets"
+description: "14-part Twitter thread, LinkedIn post, Bluesky post, and Buffer API execution script."
+layout: default
+---
+
 ## Ready-to-Post Assets for All Social Channels
 
 *Generated: July 3, 2026 | Requires: Buffer API token + appropriate channel profiles*

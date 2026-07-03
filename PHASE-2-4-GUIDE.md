@@ -1,4 +1,9 @@
-# Phase 2-4 Execution Guide
+﻿---
+title: "Phase 2-4 Execution Guide"
+description: "Complete pipeline for Web3 publishing, social dissemination, translations, audio, and interactive web. Every API call ready."
+layout: default
+---
+
 ## Play the Ball, Not the Player — Full Dissemination Pipeline
 
 *Generated: July 3, 2026 | All API calls ready — credential provision unlocks each step*
