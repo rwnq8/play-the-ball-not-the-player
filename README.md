@@ -1,3 +1,5 @@
+> **Archived 2026-11-09 (REPO-CONSOLIDATION-1).** This repository is read-only. Its content now lives in rwnq8/rwnq8.github.io, folder `play-the-ball-not-the-player/` (full history, same URL path). Plan: rwnq8/agent-operating-system `REPOSITORIES.md`.
+
 # Play the Ball, Not the Player
 ## A Life Lesson from the 2026 FIFA World Cup
 
